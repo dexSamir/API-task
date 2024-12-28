@@ -1,0 +1,11 @@
+C:\Users\ll Novbe\Desktop\All Codes\API-task\Example\Example.Core\bin\Debug\net8.0\Example.Core.deps.json
+C:\Users\ll Novbe\Desktop\All Codes\API-task\Example\Example.Core\bin\Debug\net8.0\Example.Core.dll
+C:\Users\ll Novbe\Desktop\All Codes\API-task\Example\Example.Core\bin\Debug\net8.0\Example.Core.pdb
+C:\Users\ll Novbe\Desktop\All Codes\API-task\Example\Example.Core\obj\Debug\net8.0\Example.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ll Novbe\Desktop\All Codes\API-task\Example\Example.Core\obj\Debug\net8.0\Example.Core.AssemblyInfoInputs.cache
+C:\Users\ll Novbe\Desktop\All Codes\API-task\Example\Example.Core\obj\Debug\net8.0\Example.Core.AssemblyInfo.cs
+C:\Users\ll Novbe\Desktop\All Codes\API-task\Example\Example.Core\obj\Debug\net8.0\Example.Core.csproj.CoreCompileInputs.cache
+C:\Users\ll Novbe\Desktop\All Codes\API-task\Example\Example.Core\obj\Debug\net8.0\Example.Core.dll
+C:\Users\ll Novbe\Desktop\All Codes\API-task\Example\Example.Core\obj\Debug\net8.0\refint\Example.Core.dll
+C:\Users\ll Novbe\Desktop\All Codes\API-task\Example\Example.Core\obj\Debug\net8.0\Example.Core.pdb
+C:\Users\ll Novbe\Desktop\All Codes\API-task\Example\Example.Core\obj\Debug\net8.0\ref\Example.Core.dll
